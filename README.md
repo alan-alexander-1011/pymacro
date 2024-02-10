@@ -5,7 +5,7 @@
 remember to `python.exe -m pip -r requirements.txt`
 ---
 ### __**How to use**__:
-for using macro: run the program and press the bind key
+for using macro: run the program (python main.py) and press the bind key
 
 For macro makers:
 You need to know basics of json.\
